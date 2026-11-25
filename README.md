@@ -241,12 +241,20 @@ Each team member is responsible for their own:
 ## Julia
 
 Responsible for:
-
 - LoginPage.ts
 - TC-01 Successful Login
 - TC-02 Invalid Login
 
----
+## Login Automation (Julia)
+Implemented test cases:
+- TC-01 Successful Login
+- TC-02 Invalid Login
+
+Components created:
+- LoginPage.ts
+- users.ts
+- login.spec.ts
+Execution status: All login tests passed successfully.
 
 ## Emma
 
