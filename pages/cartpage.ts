@@ -8,4 +8,8 @@ export class CartPage {
       '#remove-sauce-labs-backpack'
     );
   }
+
+  async startCheckout() {
+    await this.page.click('#checkout');
+  }
 }
