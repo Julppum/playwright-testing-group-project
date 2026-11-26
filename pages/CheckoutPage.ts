@@ -10,6 +10,8 @@ export class CheckoutPage {
     continueButton = '#continue';
     finishButton = '#finish';
 
+    errorMessage = '[data-test="error"]';
+
     async fillCheckoutInformation(
         firstName: string,
         lastName: string,
