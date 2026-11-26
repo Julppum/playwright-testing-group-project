@@ -1,1 +1,28 @@
-
+{
+  "name": "playwright-testing-group-project",
+  "version": "1.0.0",
+  "description": "Fundamentals of Functional Testing (TO00CD53-3002)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julppum/playwright-testing-group-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Julppum/playwright-testing-group-project/issues"
+  },
+  "homepage": "https://github.com/Julppum/playwright-testing-group-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.11"
+  }
+}
