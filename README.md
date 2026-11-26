@@ -7,7 +7,7 @@ Fundamentals of Functional Testing (TO00CD53-3002)
 ## Group Members
 
 - Henkilö 1
-- Henkilö 2
+- Emma Botha-Sola
 - Henkilö 3
 
 ---
@@ -260,11 +260,20 @@ Execution status: All login tests passed successfully.
 
 Responsible for:
 
+Page objectives:
 - InventoryPage.ts
 - CartPage.ts
+
+Automated test cases:
 - TC-04 Product Sorting
 - TC-05 Add Product to Cart
 - TC-06 Remove Product from Cart
+
+Technology:
+- Playwright
+- TypeScript
+
+npx playwright test : 9 passed
 
 ---
 
